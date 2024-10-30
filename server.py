@@ -1,7 +1,7 @@
 import socket
 
 # Configuração do servidor
-host = '127.0.0.1'  # Localhost
+host = '18.117.250.237'  # Localhost
 port = 65432  # Porta para escutar
 
 # Cria o socket do servidor
