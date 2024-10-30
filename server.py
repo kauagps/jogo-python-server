@@ -1,8 +1,8 @@
 import socket
 
 # Configuração do servidor
-host = '18.117.250.237'  # Localhost
-port = 65432  # Porta para escutar
+host = '0.0.0.0'  # Localhost
+port = 12345  # Porta para escutar
 
 # Cria o socket do servidor
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
